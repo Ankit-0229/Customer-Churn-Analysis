@@ -37,13 +37,6 @@ Using Python’s data analysis libraries, the focus was on uncovering behavioral
 
 ---
 
-##  Summary Report
-
-📄 [View Full EDA Summary PDF](./Telco_Customer_Churn_EDA_Summary.pdf)
-Includes numerical insights, churn trends, and actionable recommendations.
-
----
-
 ##  Key Insights
 
 * **26.54%** of customers churned — a significant retention challenge.
